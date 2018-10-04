@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NameBook</string>
+    <string name="name">Enter a name</string>
+    <string name="phone">Enter a phone number</string>
+    <string name="email">Enter an email address</string>
+    <string name="text">Enter a short text</string>
+    <string name="err_name">Name filed input must be entered</string>
+    <string name="msg_save">Data saved</string>
+
+
+</resources>
